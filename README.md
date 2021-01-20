@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! I'm Israel Nogueira, All right with you? :man_technologist: <h1>
+<h1 align="center"> Hi! I'm Israel Nogueira, all right with you? :man_technologist: <h1>
 <p align="center">
     <a href="mailto:israelluisnog@gmail.com" style="text-decoration: none">
         <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
